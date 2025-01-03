@@ -1,6 +1,6 @@
 #include <kipr/wombat.h>
-#include "headers/threading.h"
-// #include "headers/variables.h"
+#include "../include/threading.h"
+// #include "../include/variables.h"
 #include <stdio.h>
 
 // Thread handles

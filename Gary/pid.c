@@ -1,8 +1,8 @@
 #include <kipr/wombat.h>
-#include "headers/pid.h"
-#include "headers/variables.h"
-#include "headers/mpu9250.h"
-#include "headers/movement.h"
+#include "../include/pid.h"
+#include "../include/variables.h"
+#include "../include/mpu9250.h"
+#include "../include/movement.h"
 #include <math.h>
 
 void pid_init(PIDController* pid, float kP, float kI, float kD, float minOutput, float maxOutput) {

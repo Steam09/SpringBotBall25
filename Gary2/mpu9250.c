@@ -1,5 +1,5 @@
-#include "include/mpu9250.h"
-#include "include/i2c_comm.h"
+#include "../include/mpu9250.h"
+#include "../include/i2c_comm.h"
 #include <math.h>
 #include <kipr/wombat.h>
 

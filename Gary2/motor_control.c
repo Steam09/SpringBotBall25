@@ -1,4 +1,4 @@
-#include "include/motor_control.h"
+#include "../include/motor_control.h"
 #include <kipr/wombat.h>
 
 #define NUM_MOTORS 4

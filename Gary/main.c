@@ -1,7 +1,7 @@
 #include <kipr/graphics/graphics_key_code.h>
 #include <kipr/wombat.h>
 #include <stdint.h>
-#include "headers/library.h"
+#include "../include/library.h"
 #undef get_acceleration
 
 int main() {

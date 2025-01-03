@@ -1,4 +1,4 @@
-#include "include/library.h"
+#include "../include/library.h"
 #include <signal.h>
 
 static volatile int running = 1;

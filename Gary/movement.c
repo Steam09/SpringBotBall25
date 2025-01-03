@@ -1,8 +1,8 @@
 #include <kipr/motor/motor.h>
 #include <kipr/servo/servo.h>
 #include <kipr/wombat.h>
-#include "headers/variables.h"
-#include "headers/movement.h"
+#include "../include/variables.h"
+#include "../include/movement.h"
 
 float boardAngle = 0;
 

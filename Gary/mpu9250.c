@@ -1,7 +1,7 @@
 #include <stdint.h>
 #include <kipr/wombat.h>
-#include "headers/i2cHeaders.h"
-#include "headers/mpu9250.h"
+#include "../include/i2cHeaders.h"
+#include "../include/mpu9250.h"
 #include <stdio.h>
 #include <math.h>
 

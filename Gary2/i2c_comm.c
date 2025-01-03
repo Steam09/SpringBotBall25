@@ -1,4 +1,4 @@
-#include "include/i2c_comm.h"
+#include "../include/i2c_comm.h"
 #include <fcntl.h>
 #include <linux/i2c-dev.h>
 #include <sys/ioctl.h>

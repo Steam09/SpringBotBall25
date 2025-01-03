@@ -1,4 +1,4 @@
-#include "headers/fastgyro.h"
+#include "../include/fastgyro.h"
 
 float FastGyro::readings[FILTER_SIZE] = {0};
 int FastGyro::readIndex = 0;

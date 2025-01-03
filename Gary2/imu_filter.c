@@ -1,4 +1,4 @@
-#include "include/imu_filter.h"
+#include "../include/imu_filter.h"
 #include <math.h>
 #include <kipr/wombat.h>
 
